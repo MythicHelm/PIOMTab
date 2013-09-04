@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyTab</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Buttone">e</string>
+    <string name="ButtonB">B</string>
+    <string name="ButtonG">G</string>
+    <string name="ButtonD">D</string>
+    <string name="ButtonA">A</string>
+    <string name="ButtonE">E</string>
+    <string name="emptyFret">---</string>
+    <string name="initializeString">------------------------------------------------------------------------------------------------------------------------------------------------------</string>
+	<string name="saveString">Save</string>
+	<string name="exitString">Exit</string>
+	<string name="saveTextEnter">file name</string>
+	<string name="newString">New Tab</string>
+	<string name="loadString">Load</string>
+	<string name="leftString">Left</string>
+	<string name="rightString">Right</string>
+</resources>
