@@ -115,20 +115,14 @@ public class MainActivity extends Activity {
 	    		/**
 	    		 * if they choose left, scroll the screen for the tab to the left
 	    		 */
-	    		ScrollView s = (ScrollView) findViewById(R.id.horizontalScrollView1);
-	    		try{
-		    		s.scrollTo(-20,  0);
-	    		}
-	    		catch (Exception e) {
-	    			new AlertDialog.Builder(this).setTitle("Lol").setMessage("Failed!").setNeutralButton("Close", null).show();
-	    		}
+	    		new AlertDialog.Builder(this).setTitle("Left").setMessage("Work in Progress!").setNeutralButton("Close", null).show();
 	    		return true;
 	    		
 	    	case R.id.menu_right:
 	    		/**
 	    		 * if they chose right, scroll the screen for the tab to the right
 	    		 */
-	    		new AlertDialog.Builder(this).setTitle("Lol").setMessage("Failed!").setNeutralButton("Close", null).show();
+	    		new AlertDialog.Builder(this).setTitle("Right").setMessage("Work in Progress!").setNeutralButton("Close", null).show();
 	    		
 	    		return true;
 	    
